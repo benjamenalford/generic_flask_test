@@ -1,0 +1,11 @@
+Flask
+gunicorn
+numpy
+sqlalchemy
+bson
+pymongo
+dnspython
+pandas
+scikit-learn
+requests
+
